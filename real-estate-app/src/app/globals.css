@@ -1,0 +1,16 @@
+@import url("react-toastify/dist/ReactToastify.css");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-orange: #bdaf1c;
+  --secondary-orange: #90871e;
+}
+
+body {
+  background-color: #000;
+}
